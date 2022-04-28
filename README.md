@@ -7,14 +7,13 @@
 <p align="left"> <a href="https://twitter.com/dipak_dushing" target="blank"><img src="https://img.shields.io/twitter/follow/dipak_dushing?logo=twitter&style=for-the-badge" alt="dipak_dushing" /></a> <img width="330px" height="280px" align = "right" margin-top="0px"  src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067"></p>
 
 
-- 📝 I regularly write articles on [https://medium.com/@dushingdipak14](https://medium.com/@dushingdipak14)
+- 📝 I regularly write articles on : [https://medium.com/@dushingdipak14](https://medium.com/@dushingdipak14)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, MongoDB, Node, Express, C, C++**
+- 💬 Ask me about : **HTML, CSS, Javascript, React, MongoDB, Node, Express, C, C++**
 
-- 📫 How to reach me **dushingdipak14@gmail.com**
+- 📫 How to reach me : **dushingdipak14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YSfRd5kV4oPc-XFAgGeSeFtwPKQRPL_O/view?usp=sharing] (https://drive.google.com/file/d/1YSfRd5kV4oPc-XFAgGeSeFtwPKQRPL_O/view?usp=sharing)
-
+- 📄 Know about my experiences please visit : [https://drive.google.com/file/d/1YSfRd5kV4oPc-XFAgGeSeFtwPKQRPL_O/view?usp=sharing] 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dipak_dushing" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipak_dushing" height="30" width="40" /></a>  
