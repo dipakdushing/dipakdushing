@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/dipak_dushing" target="blank"><img src="https://img.shields.io/twitter/follow/dipak_dushing?logo=twitter&style=for-the-badge" alt="dipak_dushing" /></a> <img width="330px" height="280px" align = "right" margin-top="0px"  src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067"></p>
 
-- 📄 Visit my Portfolio to know about me  :  https://dipak-dushing.netlify.app/
+- 📄 Visit my Portfolio to know about me : https://dipak-dushing.netlify.app/
 
 - 📝 I regularly write articles on : [https://medium.com/@dushingdipak14](https://medium.com/@dushingdipak14)
 
